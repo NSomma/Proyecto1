@@ -1,0 +1,14 @@
+Etiquetas principales
+
+lucasgallucci@gmail.com
+m.pelufito@gmail.com
+
+
+<header> </header> ---> cabecera
+<nav> </nav> ---> menu
+<section> </section> ---> general
+<article> </article> ---> articulos
+<aside> </aside> ---> sidebar
+<footer> </footer> ---> pie de pagina
+
+<main> (?) contenido principal
